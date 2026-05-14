@@ -1,3 +1,6 @@
+// Manideep Sai C
+// Reg.no 23BCE0737
+
 import React, { useState, useEffect } from "react";
 import { io } from "socket.io-client";
 import "./App.css";

@@ -1,3 +1,6 @@
+// Manideep Sai C
+// Reg.no 23BCE0737
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
